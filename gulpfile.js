@@ -1,7 +1,6 @@
 var gulp        = require('gulp'),
     sass        = require('gulp-sass'),
     watch       = require('gulp-watch'),
-    babel       = require('gulp-babel'),
     coffee      = require('gulp-coffee'),
     browserSync = require('browser-sync').create();
     plumber     = require('gulp-plumber');
