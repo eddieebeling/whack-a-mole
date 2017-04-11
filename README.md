@@ -1,9 +1,13 @@
 # Whack-A-Mole
-> A simple code exercise
+### A simple code exercise
 
 ## Getting started
 
-Clone this repo and run `npm install` to install dev dependancies, then run:
+Clone repo, then run the following commands:
+
+```shell
+npm install
+```
 
 ```shell
 gulp serve
