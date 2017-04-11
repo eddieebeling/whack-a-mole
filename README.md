@@ -1,6 +1,8 @@
 # Whack-A-Mole
 ### A simple code exercise
 
+## [View Codepen](http://codepen.io/eddieebeling/full/wJVOMy/){: target="_blank"}
+
 ## Getting started
 
 Clone repo, then run the following commands:
