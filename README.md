@@ -1,7 +1,5 @@
 # Whack-A-Mole
-### A simple code exercise
-
-## [View Codepen](http://codepen.io/eddieebeling/full/wJVOMy/){: target="_blank"}
+### A simple code exercise - [View demo](http://codepen.io/eddieebeling/full/wJVOMy/) in Codepen
 
 ## Getting started
 
