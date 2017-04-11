@@ -7,7 +7,7 @@ angular.module('app', []).controller 'MainCtrl', ($scope, $timeout,$interval) ->
     title: 'Whack-a-mole'
     username: 'eddieebeling'
     score: 0
-    showNewGameLink: true
+    showNewGameLink: false
     holes:[
       {"id": "1","active":false},
       {"id": "2","active":false},
