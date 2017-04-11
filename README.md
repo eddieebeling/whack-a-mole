@@ -1,12 +1,12 @@
 # Whack-A-Mole
-### A simple code exercise - [View demo](http://codepen.io/eddieebeling/full/wJVOMy/) in Codepen
+### A simple code exercise - [View demo](http://codepen.io/eddieebeling/full/wJVOMy/)
 
 ## Getting started
 
 Clone repo, then run the following commands:
 
 ```shell
-npm install
+npm i && bower i
 ```
 
 ```shell
@@ -15,12 +15,13 @@ gulp serve
 
 ### Output Folder
 
-All files will publish to the `www` folder.
+All files publish to the `www` folder.
 
-## Technolgoy
+### Technolgoy
 
 * AngularJS
 * Coffeescript
 * Gulp
 * Sass
+* Sass Media Queries
 * Browser-Sync

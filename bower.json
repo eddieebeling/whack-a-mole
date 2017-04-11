@@ -1,0 +1,21 @@
+{
+  "name": "whack-a-mole",
+  "description": "A simple code exercise",
+  "main": "app.js",
+  "authors": [
+    "eddieebeling@mac.com"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/eddieebeling/whack-a-mole",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sass-mq": "^3.3.2"
+  }
+}
